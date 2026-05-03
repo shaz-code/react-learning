@@ -1,16 +1,52 @@
-# React + Vite
+# React Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my React.js learning journey, practice projects, and hands-on experiments while learning modern frontend development.
 
-Currently, two official plugins are available:
+## 🚀 About This Repository
+I created this repository to practice and improve my React.js skills by building small projects, experimenting with components, and understanding core React concepts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📚 Topics Practiced
+- JSX
+- Components
+- Props
+- State Management
+- Event Handling
+- Conditional Rendering
+- Lists & Keys
+- Hooks
+- Forms
+- React Project Structure
+- Git & GitHub Workflow
 
-## React Compiler
+## 🛠️ Technologies Used
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Node.js
+- Git & GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Purpose
+The main purpose of this repository is:
+- Practice React development
+- Build consistency in coding
+- Improve frontend skills
+- Learn project structure and Git workflow
+- Track my learning progress publicly
 
-## Expanding the ESLint configuration
+## 📂 Projects Included
+- Basic React practice apps
+- UI experiments
+- Component-based mini projects
+- Learning exercises from tutorials
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔥 Future Improvements
+- Add advanced React projects
+- Learn API integration
+- Practice state management libraries
+- Build responsive full-stack applications
+
+## 👨‍💻 Author
+Shahil Ahmed
+
+GitHub: https://github.com/shaz-code
